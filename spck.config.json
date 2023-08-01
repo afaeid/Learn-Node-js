@@ -1,6 +1,8 @@
 {
   "run": {
-    "type": "task",
-    "task": "global/Running Code"
+    "type": "file",
+    "task": "project/Run Server ",
+    "file": "index.html",
+    "ignoreCurrent": false
   }
 }
